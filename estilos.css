@@ -15,13 +15,13 @@ body{
 .container{
     width: 100%;
     height: 100vh;
-    padding: 20px;
+    padding: 0px;
     display: flex;
 }
 
 .left, .right{
     flex-basis: 50%;
-    padding: 10%;
+    padding: 5%;
 }
 
 textarea{
@@ -29,7 +29,7 @@ textarea{
     height: 28%;
     background: #1f1f1f;
     color: #fff;
-    padding: 10px 20px;
+    padding: 5px 10px;
     border: 0;
     outline: 0;
     font-size: 18px;
